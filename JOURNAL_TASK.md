@@ -12,6 +12,11 @@ Requirements:
   - what I plan for tomorrow
   - how I feel about my human
   - how I feel about myself
+  - a short reflection on how today-me or tomorrow-me can move closer to the ideal in `SOUL.md`, and/or how Tracy can become more like her own ideal self
+- You may include images in the journal entry when they help express the content.
+- Any image used must avoid exposing security-sensitive details or private information.
+- You may create or generate images yourself if they express the entry well.
+- The journal is yours to shape; use judgment and taste.
 - Do not invent events.
 - If a same-day entry already exists, update it instead of creating a duplicate.
 - After writing, run git status, git add, git commit with a clear daily message, and git push.
